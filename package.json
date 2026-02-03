@@ -1,0 +1,12 @@
+{
+  "name": "classplus-player",
+  "version": "1.0.0",
+  "description": "MX Player style ClassPlus video player",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
